@@ -1,0 +1,45 @@
+.DS_Store
+
+# CS300
+CS300-Data_Structures-Assignments/Assignment #1 - Stack & Linked List.xcodeproj/
+CS300-Data_Structures-Assignments/Assignment #2 - Binary Search Tree & AVL Search Tree.xcodeproj/
+CS300-Data_Structures-Assignments/Assignment #3 - Binary Search Tree & Hash Table.xcodeproj/
+CS300-Data_Structures-Assignments/Assignment #4 - InsertionSort&QuickSort&MergeSort&HeapSort & SequentialSearch&BinarySearch.xcodeproj/
+
+# CS306
+# CakePHP 3
+CS306-Database_Systems-Project-MovieBase/vendor/*
+CS306-Database_Systems-Project-MovieBase/config/app.php
+CS306-Database_Systems-Project-MovieBase/tmp/cache/models/*
+!/tmp/cache/models/empty
+CS306-Database_Systems-Project-MovieBase/tmp/cache/persistent/*
+!/tmp/cache/persistent/empty
+CS306-Database_Systems-Project-MovieBase/tmp/cache/views/*
+!/tmp/cache/views/empty
+CS306-Database_Systems-Project-MovieBase/tmp/sessions/*
+!/tmp/sessions/empty
+CS306-Database_Systems-Project-MovieBase/tmp/tests/*
+!/tmp/tests/empty
+CS306-Database_Systems-Project-MovieBase/logs/*
+!/logs/empty
+# CakePHP 2
+CS306-Database_Systems-Project-MovieBase/app/tmp/*
+CS306-Database_Systems-Project-MovieBase/app/Config/core.php
+CS306-Database_Systems-Project-MovieBase/app/Config/database.php
+CS306-Database_Systems-Project-MovieBase/vendors/*
+
+# CS310
+CS310-Mobile_Application_Development-Project-Finder/pubspec.lock
+
+# CS436
+CS436-Cloud_Computing-Project-WebAppDeployedOnCloud/frontend/node_modules/
+CS436-Cloud_Computing-Project-WebAppDeployedOnCloud/frontend/src/
+CS436-Cloud_Computing-Project-WebAppDeployedOnCloud/frontend/.env
+CS436-Cloud_Computing-Project-WebAppDeployedOnCloud/frontend/package-lock.json
+
+CS436-Cloud_Computing-Project-WebAppDeployedOnCloud/backend/node_modules/
+CS436-Cloud_Computing-Project-WebAppDeployedOnCloud/backend/src/
+CS436-Cloud_Computing-Project-WebAppDeployedOnCloud/backend/.env
+CS436-Cloud_Computing-Project-WebAppDeployedOnCloud/backend/package-lock.json
+
+CS436-Cloud_Computing-Project-WebAppDeployedOnCloud/video_link.txt
