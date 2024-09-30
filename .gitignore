@@ -30,6 +30,8 @@ CS306-Database_Systems-Project-MovieBase/vendors/*
 
 # CS310
 CS310-Mobile_Application_Development-Project-Finder/pubspec.lock
+CS310-Mobile_Application_Development-Project-Finder/android/app/google-services.json
+CS310-Mobile_Application_Development-Project-Finder/ios/Runner/GoogleService-Info.plist
 
 # CS436
 CS436-Cloud_Computing-Project-WebAppDeployedOnCloud/frontend/node_modules/
